@@ -1,0 +1,11 @@
+body{
+  background-color: purple;
+  color: wheat;
+  font-size: 4.2vw;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 10vw;
+  }
+}
